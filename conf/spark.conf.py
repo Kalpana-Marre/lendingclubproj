@@ -1,2 +1,4 @@
 spark.conf.appname= lendingclub
-spark.executor.cores= 4
+
+spark.executor.cores= 3
+
